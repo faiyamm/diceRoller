@@ -6,8 +6,13 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		25A23F6C2F6291530016A612 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 25A23F6A2F62914B0016A612 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		25A23F4F2F628DC80016A612 /* diceRoller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = diceRoller.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		25A23F6A2F62914B0016A612 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -34,6 +39,7 @@
 			children = (
 				25A23F512F628DC80016A612 /* diceRoller */,
 				25A23F502F628DC80016A612 /* Products */,
+				25A23F6A2F62914B0016A612 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25A23F6C2F6291530016A612 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
